@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Szymek445
 - 👀 I’m interested in financial markets, accouting, crypto, programing, data analysis. 
-- 🌱 I’m currently learning Python, SAP.
+- 🌱 I’m currently learning Python, SAP, Linux.
 - 💞️ I’m looking to collaborate on SAPGUI automation with python. 
 - 📫 How to reach me szymon.bula@gmail.com
 
